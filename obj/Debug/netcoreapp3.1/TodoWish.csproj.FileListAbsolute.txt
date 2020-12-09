@@ -1,0 +1,140 @@
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\TodoWish.exe
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\obj\Debug\netcoreapp3.1\TodoWish.csprojAssemblyReference.cache
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\obj\Debug\netcoreapp3.1\TodoWish.AssemblyInfoInputs.cache
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\obj\Debug\netcoreapp3.1\TodoWish.AssemblyInfo.cs
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\obj\Debug\netcoreapp3.1\TodoWish.RazorTargetAssemblyInfo.cache
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\obj\Debug\netcoreapp3.1\staticwebassets\TodoWish.StaticWebAssets.Manifest.cache
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\obj\Debug\netcoreapp3.1\staticwebassets\TodoWish.StaticWebAssets.xml
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\obj\Debug\netcoreapp3.1\TodoWish.csproj.CoreCompileInputs.cache
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\obj\Debug\netcoreapp3.1\TodoWish.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\obj\Debug\netcoreapp3.1\TodoWish.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\TodoWish.deps.json
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\TodoWish.runtimeconfig.json
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\TodoWish.runtimeconfig.dev.json
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\TodoWish.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\TodoWish.pdb
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\NETCore.MailKit.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Schema.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\SmtpServer.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\obj\Debug\netcoreapp3.1\TodoWish.csproj.CopyComplete
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\obj\Debug\netcoreapp3.1\TodoWish.dll
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\obj\Debug\netcoreapp3.1\TodoWish.pdb
+C:\Users\PREDATOR\source\repos\TodoWish\TodoWish\obj\Debug\netcoreapp3.1\TodoWish.genruntimeconfig.cache
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\TodoWish.exe
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\TodoWish.deps.json
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\TodoWish.runtimeconfig.json
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\TodoWish.runtimeconfig.dev.json
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\TodoWish.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\TodoWish.pdb
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\NETCore.MailKit.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Schema.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\SmtpServer.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\obj\Debug\netcoreapp3.1\TodoWish.csprojAssemblyReference.cache
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\obj\Debug\netcoreapp3.1\TodoWish.AssemblyInfoInputs.cache
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\obj\Debug\netcoreapp3.1\TodoWish.AssemblyInfo.cs
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\obj\Debug\netcoreapp3.1\TodoWish.csproj.CoreCompileInputs.cache
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\obj\Debug\netcoreapp3.1\TodoWish.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\obj\Debug\netcoreapp3.1\TodoWish.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\obj\Debug\netcoreapp3.1\TodoWish.RazorTargetAssemblyInfo.cache
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\obj\Debug\netcoreapp3.1\TodoWish.csproj.CopyComplete
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\obj\Debug\netcoreapp3.1\staticwebassets\TodoWish.StaticWebAssets.Manifest.cache
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\obj\Debug\netcoreapp3.1\staticwebassets\TodoWish.StaticWebAssets.xml
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\obj\Debug\netcoreapp3.1\TodoWish.dll
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\obj\Debug\netcoreapp3.1\TodoWish.pdb
+C:\Users\PREDATOR\Documents\.NET core\TodoWish\TodoWish\obj\Debug\netcoreapp3.1\TodoWish.genruntimeconfig.cache
